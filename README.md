@@ -1,6 +1,12 @@
 # Wanderer
 
-TODO: Write a gem description
+Ruby method look-up chain visualization
+
+For example:
+* How method look-up work when we call `new` method on an instance of
+`ActiveRecord`(like `User`)?
+
+![How ActiveRecard look up new method on User model](https://github.com/ipmsteven/wanderer/blob/master/example/AR_new.png)
 
 ## Installation
 
